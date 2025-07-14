@@ -34,7 +34,7 @@ This website is part of my diploma project to practice web design, interaction, 
 
 ## 📸 Screenshots
 ![Hero Section](hero-section.JPG)
-![About Section](about-section.jpg)
+![About Section](about-section.JPG)
 ![Menu Section](beanie-cafe-website/menu-section.JPG)
 ![Gallery Section](gallery-section.jpg)
 ![FAQs Section](FAQs-section.jpg)
