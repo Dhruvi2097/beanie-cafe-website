@@ -37,7 +37,7 @@ This website is part of my diploma project to practice web design, interaction, 
 ![About Section](about-section.JPG)
 ![Menu Section](menu-section.JPG)
 ![Gallery Section](gallery-section.JPG)
-![FAQs Section](FAQs-section.jpg)
+![FAQs Section](FAQs-section.JPG)
 ![Contact Us Form](FAQs-section2.JPG)
 
 
