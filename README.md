@@ -40,6 +40,29 @@ This website is part of my diploma project to practice web design, interaction, 
 ![FAQs Section](FAQs-section.JPG)
 ![Contact Us Form](contactus.JPG)
 
+---
+
+## 📂 How to Use
+
+- Visit the [Live Site](https://dhruvis-marvelous-site-4e8c0b.webflow.io/)
+- Or clone this repo to see screenshots & project info
+
+---
+
+## ✅ Author
+
+Created by Dhruvi Patel — Diploma Student
+
+---
+
+## 📫 Contact
+
+For any questions, feel free to connect!
+
+---
+
+Enjoy your coffee break! ☕✨
+
 
 
 
